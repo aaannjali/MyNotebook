@@ -15,12 +15,12 @@ Shadcn UI (for polished UI components)
 
 - **Write Journal Entries** — Securely write your thoughts.
 - **User Authentication** — Powered by Clerk (Sign In / Sign Up / Sessions).
-  Sign up / log in securely with Clerk
-  Write, read, and delete journal entries
-  Deploy and protect routes with Arcjet
-  Use Shadcn components for sleek UI
-  Store data in Supabase
-  Deploy to Vercel
+  Sign up / log in securely with Clerk.
+  Write, read, and delete journal entries.
+  Deploy and protect routes with Arcjet.
+  Use Shadcn components for sleek UI.
+  Store data in Supabase.
+  Deploy to Vercel.
 
 ---
 
