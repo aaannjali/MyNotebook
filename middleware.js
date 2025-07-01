@@ -5,7 +5,7 @@ import { NextResponse } from 'next/server';
 const isProtectedRoute = createRouteMatcher([
   "/dashboard(.*)",
   "/collection(.*)",
-  "/journal",
+  "/journal(.*)", 
 ])
 // SHEILD AND BOT DETECTION - ARCJET
 
